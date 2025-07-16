@@ -6,7 +6,13 @@ Just display the number of month, days, minutes and secondes left before your ne
 
 Just run the script and enter your birthday date in the format `DD/MM/YYYY`.
 
-Example :
+How to run the script :
+```
+npm install
+npm start
+```
+
+Example of calls to the API :
 ```
 GET http://localhost:3002/DD/MM/YYYY
 
